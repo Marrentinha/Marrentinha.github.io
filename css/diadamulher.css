@@ -1,0 +1,57 @@
+/*erica*/
+
+/*div{
+border: solid 1px;
+
+}*/
+
+body{
+background-color: #9370DB;
+
+} 
+
+.text_A{
+ text-align: center;
+color: pink;
+}
+
+.text_B{
+ text-align: center;
+color: pink;
+font-family:flatline;
+}
+
+.text_C{
+ text-align: center;
+color: pink;
+font-family:flatline;
+}
+
+.text_D{
+ text-align: center;
+color: pink;
+font-family:flatline;
+}
+
+.text_E{
+ text-align: center;
+color: pink;
+font-family:flatline;
+}
+
+.text_F{
+ text-align: center;
+color: pink;
+font-family:flatline;
+background-color: blue;
+}
+
+.Parte_01{
+background-color: purple;
+text-align: center;
+color: black;
+}
+
+.rodape{
+background-color: #8B008B;
+}

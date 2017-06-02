@@ -1,0 +1,85 @@
+/*erica*/
+body{background-color: #5F9F9F;} 
+
+p{text-align: justify;}
+
+/*inicio O QUE FAZEMOS*/
+.text_A{text-align: center;
+color:#B22222;}
+
+
+/*titulo menor*/
+.text_B{text-align: center;
+color: black;}
+.text_C{text-align: center;
+color:red;}
+.text_D{text-align: center;
+color: blue;}
+
+
+
+
+/*FIM O QUE FZEMOS*/
+
+/* inicio sobre o evento*/
+.part1{background-color: black;
+color:#FF8C00;
+border: solid;
+font-family: Century Schoolbook L;}
+
+
+/*fim sobre o evento*/
+
+
+
+/*inicio equipe*/
+
+.part2{background-color:#FFFAFA;
+border: solid 2px black;}
+/*fim da equipe*/
+
+
+
+
+.text_E{border: solid 2px black;
+text-align: center;}
+
+
+
+
+.text1{text-align: center;
+color: black;}
+
+
+
+
+
+/*rodape*/
+
+.text_F{border: solid 2px black;
+color: #FFF;
+background-color: #4682B4 ;
+text-align: center;}
+
+.img_rod{
+width: 10%;
+text-align: center;
+}
+
+/*posts*/
+
+.data1{text-align: center;
+padding: 10px;
+color: #FF8C00;
+background: black;}
+
+
+.data2{text-align: justify;
+color: black;
+font-size:200%;
+font-family: }
+
+.data3{text-align: justify;
+color: black;}
+
+ 
